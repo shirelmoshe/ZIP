@@ -1,0 +1,12 @@
+C:\פרוייקטים\Exercise1\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\פרוייקטים\Exercise1\Dal\bin\Debug\net6.0\Dal.dll
+C:\פרוייקטים\Exercise1\Dal\bin\Debug\net6.0\Dal.pdb
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.dll
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\refint\Dal.dll
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\Dal.pdb
+C:\פרוייקטים\Exercise1\Dal\obj\Debug\net6.0\ref\Dal.dll

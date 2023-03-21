@@ -1,0 +1,6 @@
+C:\פרוייקטים\Exercise1\zipWimfrom\obj\Debug\zipWimfrom.csproj.AssemblyReference.cache
+C:\פרוייקטים\Exercise1\zipWimfrom\obj\Debug\zipWimfrom.csproj.SuggestedBindingRedirects.cache
+C:\פרוייקטים\Exercise1\zipWimfrom\obj\Debug\zipWimfrom.Form1.resources
+C:\פרוייקטים\Exercise1\zipWimfrom\obj\Debug\zipWimfrom.Properties.Resources.resources
+C:\פרוייקטים\Exercise1\zipWimfrom\obj\Debug\zipWimfrom.csproj.GenerateResource.cache
+C:\פרוייקטים\Exercise1\zipWimfrom\obj\Debug\zipWimfrom.csproj.CoreCompileInputs.cache

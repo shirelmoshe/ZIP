@@ -1,0 +1,12 @@
+C:\פרוייקטים\Exercise1\Data.Sql\bin\Debug\net6.0\Data.Sql.deps.json
+C:\פרוייקטים\Exercise1\Data.Sql\bin\Debug\net6.0\Data.Sql.dll
+C:\פרוייקטים\Exercise1\Data.Sql\bin\Debug\net6.0\Data.Sql.pdb
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.csproj.AssemblyReference.cache
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.AssemblyInfoInputs.cache
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.AssemblyInfo.cs
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.csproj.CoreCompileInputs.cache
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.dll
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\refint\Data.Sql.dll
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\Data.Sql.pdb
+C:\פרוייקטים\Exercise1\Data.Sql\obj\Debug\net6.0\ref\Data.Sql.dll
